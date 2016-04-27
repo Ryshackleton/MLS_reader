@@ -1,0 +1,31 @@
+Code	Name
+100	 Jovita/West Hill Auburn
+110	 Dash Point, Federal Way
+120	 Des Moines, Redondo
+130	 Burien, Normandy Park
+140	 West Seattle
+300	 Enumclaw
+310	 Auburn
+320	 Black Diamond, Maple Valley
+330	 Kent
+340	 RentonBenson Hill
+350	 RentonHighlands & Kennydale
+360	 Skyway Area
+380	 Central Seattle SE, Leshi, Mt Baker, Seward Park
+385	 Central Seattle SW, Beacon Hill
+390	 Central Seattle, Madison Park, Capitol Hill
+500	 East SideSouth of I-90
+510	 Mercer Island
+520	 BellevueWest of 405
+530	 BellevueEast of 405
+540	 East of Lake Sammamish
+550	 Redmond, Carnation
+560	 KirklandBridle Trails
+600	 Juanita, Woodinville
+700	 Queen Anne, Magnolia
+701	 Downtown Seattle
+705	 Ballard, Greenlake, Greenwood
+710	 North Seattle
+715	 Richmond Beach, Shoreline
+720	 Lake Forest Park, Kenmore
+800	 Vashon Island
